@@ -1,6 +1,6 @@
 https://www.youtube.com/watch?v=3nLTB_E6XAM&t=3388s
 
-8:08
+25:34
 
 # Getting Started with Create React App
 
